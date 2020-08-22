@@ -10,8 +10,8 @@
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Features](#features)
-  - [Screenshots](#screenshots)
   - [Youtube video](#youtube-video)
+  - [Screenshots](#screenshots)
   - [Status](#status)
   - [Why did I create it](#why-did-i-create-it)
   - [Contact](#contact)
@@ -47,14 +47,14 @@ To upgrade:
 * Add english language
 * Next methods to calculate
 
+## Youtube video
+
+[Check how it works!](https://www.youtube.com/watch?v=6tae28SgbTA)
+
 ## Screenshots
 
 ![Editing matrix](./ReadMeIMG/Monte%20Carlo.png)
 ![Adding matrix](./ReadMeIMG/Calculus.png)
-
-## Youtube video
-
-[Check how it works!](https://www.youtube.com/watch?v=6tae28SgbTA)
 
 ## Status
 
